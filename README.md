@@ -19,17 +19,22 @@ My goal is to grow into a product-based engineer who builds scalable and impactf
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java)
 
----
-## 🧠 Competitive Programming
 
-| LeetCode | Codeforces | AtCoder |
-|----------|------------|---------|
-| ![LeetCode](https://leetcard.jacoblin.cool/smmohamedarfan?theme=dark&font=Fira%20Code&ext=contest) | [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=smmohamedarfan&hide_title=true&theme=dark)](https://codeforces.com/profile/smmohamedarfan) | [![AtCoder Stats](https://atcoder-readme-stats.vercel.app/stats/Cat_On_165Hz?theme=darcula&show_history=3&show_icons=true)](https://atcoder.jp/users/Cat_On_165Hz) |
+## Competitive Programming
 
-### Profiles
-- 💻 LeetCode: https://leetcode.com/Cat_On_165Hz  
-- ⚔️ Codeforces: https://codeforces.com/profile/Cat_On_144Hz  
-- 🧩 AtCoder: https://atcoder.jp/users/smmohamedarfan  
+<p align="center">
+  <a href="https://leetcode.com/u/smmohamedarfan/">
+    <img src="https://leetcard.jacoblin.cool/smmohamedarfan?theme=dark&font=Fira%20Code&ext=contest" width="31%" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/redheadphone">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=smmohamedarfan" width="31%" />
+  </a>
+
+  <a href="https://atcoder.jp/users/Cat_On_165Hz">
+    <img src="https://atcoder-readme-stats.vercel.app/stats/Cat_On_165Hz?theme=darcula&show_history=3&show_icons=true" width="31%" />
+  </a>
+</p>
 
 ---
 
