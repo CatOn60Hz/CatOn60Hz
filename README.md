@@ -20,12 +20,11 @@ My goal is to grow into a product-based engineer who builds scalable and impactf
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java)
 
 ---
-
-## Competitive Programming
+## 🧠 Competitive Programming
 
 | LeetCode | Codeforces | AtCoder |
 |----------|------------|---------|
-| ![LeetCode](https://leetcard.jacoblin.cool/Cat_On_165Hz?theme=dark&font=Fira%20Code&ext=contest) | ![Codeforces](https://cf.leed.at/?handle=Cat_On_144Hz) | [![AtCoder Stats](https://atcoder-readme-stats.vercel.app/stats/smmohamedarfan?theme=darcula&show_history=3&show_icons=true)](https://atcoder.jp/users/smmohamedarfan) |
+| ![LeetCode](https://leetcard.jacoblin.cool/smmohamedarfan?theme=dark&font=Fira%20Code&ext=contest) | [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=smmohamedarfan&hide_title=true&theme=dark)](https://codeforces.com/profile/smmohamedarfan) | [![AtCoder Stats](https://atcoder-readme-stats.vercel.app/stats/Cat_On_165Hz?theme=darcula&show_history=3&show_icons=true)](https://atcoder.jp/users/Cat_On_165Hz) |
 
 ### Profiles
 - 💻 LeetCode: https://leetcode.com/Cat_On_165Hz  
