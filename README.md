@@ -214,3 +214,6 @@ I am a Computer Science undergraduate focused on backend engineering and system 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 
+<p align="center">
+  <img src="https://github.com/CatOn60Hz/CatOn60Hz/blob/main/tenor.gif?raw=true" />
+</p>
