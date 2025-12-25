@@ -101,7 +101,7 @@ I am a Computer Science undergraduate focused on backend engineering and system 
 </tr>
 </table>
 
-# Comptetive Coding
+# Competitive Coding
 
 <p align="center">
   <a href="https://leetcode.com/u/smmohamedarfan/">
