@@ -132,24 +132,6 @@ I am a Computer Science undergraduate focused on backend engineering and system 
   </tr>
 </table>
 
-# My other stuff
-
-<table  border="0" cellspacing="0">
-  <tr>
-   
-  <td align="center">
-      
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ohjq2w5nzh7dkw7mwda6t5qysq&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ohjq2w5nzh7dkw7mwda6t5qysq&redirect=true)
-      
-</td>
-  <td align="center">
-      <img
-        src="https://spotify-recently-played-readme.vercel.app/api?user=31ohjq2w5nzh7dkw7mwda6t5qysq&unique=true&count=5&width=300&unique={true}}"
-        alt="Top / Unique Songs"
-      />
-    </td>
-  </tr>
-</table>
 
 
 
